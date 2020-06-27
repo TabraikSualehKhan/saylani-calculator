@@ -1,0 +1,24 @@
+.title{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:#0339fc;
+    border: solid black 1px;
+    }
+    input[type="button"]
+    {
+    border-radius: 10px;
+    background-color:#03fc03;
+    color: black;
+    border-color:#03fc03;
+    width:100%;
+    }
+    input[type="text"]
+    {
+    border-radius: 10px;
+    text-align: right;
+    background-color:white;
+    border-color: black ;
+    width:100%
+    }
